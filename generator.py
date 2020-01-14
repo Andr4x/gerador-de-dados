@@ -247,7 +247,7 @@ def generate_senha():
 
 
 
-print("=========== Coded By Andr4x ======")
+print("=========== Coded By Dr3xey ========")
 print("-")
 
 print(" Nome completo: "+gerar_nome + " " +gerar_sobre_nome + " " +gerar_sobre_nome_2)
